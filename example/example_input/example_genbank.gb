@@ -1,0 +1,1189 @@
+LOCUS       NM_001014432            2878 bp    mRNA    linear   PRI 22-MAR-2020
+DEFINITION  Homo sapiens AKT serine/threonine kinase 1 (AKT1), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001014432
+VERSION     NM_001014432.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2878)
+  AUTHORS   Sharma A, Alswillah T, Kapoor I, Debjani P, Willard B, Summers MK,
+            Gong Z and Almasan A.
+  TITLE     USP14 is a deubiquitinase for Ku70 and critical determinant of
+            non-homologous end joining repair in autophagy and PTEN-deficient
+            cells
+  JOURNAL   Nucleic Acids Res. 48 (2), 736-747 (2020)
+   PUBMED   31740976
+  REMARK    GeneRIF: AKT, which mediates Ser432-USP14 phosphorylation, was
+            required for IRIF formation by USP14. Similar to USP14 block, AKT
+            inhibition rescued the activity of NHEJ-DDR proteins in autophagy-
+            and PTEN-deficient cells. These findings reveal a novel negative
+            PTEN/Akt-dependent regulation of NHEJ by
+REFERENCE   2  (bases 1 to 2878)
+  AUTHORS   Su Z, Burchfield JG, Yang P, Humphrey SJ, Yang G, Francis D, Yasmin
+            S, Shin SY, Norris DM, Kearney AL, Astore MA, Scavuzzo J,
+            Fisher-Wellman KH, Wang QP, Parker BL, Neely GG, Vafaee F, Chiu J,
+            Yeo R, Hogg PJ, Fazakerley DJ, Nguyen LK, Kuyucak S and James DE.
+  TITLE     Global redox proteome and phosphoproteome analysis reveals redox
+            switch in Akt
+  JOURNAL   Nat Commun 10 (1), 5486 (2019)
+   PUBMED   31792197
+  REMARK    GeneRIF: Mechanistic analysis of the redox regulation of Akt
+            identified two cysteine residues in the pleckstrin homology domain
+            (C60 and C77) to be reversibly oxidized.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2878)
+  AUTHORS   Zeng J, Zhao H and Chen B.
+  TITLE     DJ-1/PARK7 inhibits high glucose-induced oxidative stress to
+            prevent retinal pericyte apoptosis via the PI3K/AKT/mTOR signaling
+            pathway
+  JOURNAL   Exp. Eye Res. 189, 107830 (2019)
+   PUBMED   31593688
+  REMARK    GeneRIF: DJ-1 may play a role in protecting RRPs from high glucose
+            induced-oxidative injury. DJ-1 might improve mitochondrial
+            function, inhibit ROS production and enhance antioxidant capacity
+            to reduce apoptosis of retinal pericytes through the PI3K/AKT/mTOR
+            signaling pathway which may be related to early pathogenesis of
+            diabetic retinopathy.
+REFERENCE   4  (bases 1 to 2878)
+  AUTHORS   Huang QB, Zhang HW and Liao ZB.
+  TITLE     Carboxypeptidase A6 Promotes the Proliferation and Migration of
+            Hepatocellular Carcinoma by Up-regulating AKT Signaling Pathway
+  JOURNAL   Curr Med Sci 39 (5), 727-733 (2019)
+   PUBMED   31612389
+  REMARK    GeneRIF: CPA6 promotes the proliferation and migration of
+            hepatocellular carcinoma by up-regulating AKT signaling pathway.
+REFERENCE   5  (bases 1 to 2878)
+  AUTHORS   Yan Y and Huang H.
+  TITLE     Interplay Among PI3K/AKT, PTEN/FOXO and AR Signaling in Prostate
+            Cancer
+  JOURNAL   Adv. Exp. Med. Biol. 1210, 319-331 (2019)
+   PUBMED   31900915
+  REMARK    GeneRIF: REVIEW: Interplay Among PI3K/AKT, PTEN/FOXO and AR
+            Signaling in Prostate Cancer
+            Review article
+REFERENCE   6  (bases 1 to 2878)
+  AUTHORS   Biesecker,L.G. and Sapp,J.C.
+  TITLE     Proteus Syndrome
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   22876373
+REFERENCE   7  (bases 1 to 2878)
+  AUTHORS   Coffer,P.J. and Woodgett,J.R.
+  TITLE     Molecular cloning and characterisation of a novel putative
+            protein-serine kinase related to the cAMP-dependent and protein
+            kinase C families
+  JOURNAL   Eur. J. Biochem. 205 (3), 1217 (1992)
+   PUBMED   1533586
+  REMARK    Correction to:[Eur J Biochem. 1991 Oct 15;201(2):475-81. PMID:
+            1718748]
+REFERENCE   8  (bases 1 to 2878)
+  AUTHORS   Coffer PJ and Woodgett JR.
+  TITLE     Molecular cloning and characterisation of a novel putative
+            protein-serine kinase related to the cAMP-dependent and protein
+            kinase C families
+  JOURNAL   Eur. J. Biochem. 201 (2), 475-481 (1991)
+   PUBMED   1718748
+  REMARK    Erratum:[Eur J Biochem. 1992 May 1;205(3):1217. PMID: 1533586]
+REFERENCE   9  (bases 1 to 2878)
+  AUTHORS   Jones PF, Jakubowicz T, Pitossi FJ, Maurer F and Hemmings BA.
+  TITLE     Molecular cloning and identification of a serine/threonine protein
+            kinase of the second-messenger subfamily
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (10), 4171-4175 (1991)
+   PUBMED   1851997
+REFERENCE   10 (bases 1 to 2878)
+  AUTHORS   Staal,S.P.
+  TITLE     Molecular cloning of the akt oncogene and its human homologues AKT1
+            and AKT2: amplification of AKT1 in a primary human gastric
+            adenocarcinoma
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 84 (14), 5034-5037 (1987)
+   PUBMED   3037531
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CN414251.1, BC084538.1 and
+            BC000479.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On Mar 25, 2020 this sequence was replaced by
+            NM_001014432.2.
+            
+            Summary: The serine-threonine protein kinase encoded by the AKT1
+            gene is catalytically inactive in serum-starved primary and
+            immortalized fibroblasts. AKT1 and the related AKT2 are activated
+            by platelet-derived growth factor. The activation is rapid and
+            specific, and it is abrogated by mutations in the pleckstrin
+            homology domain of AKT1. It was shown that the activation occurs
+            through phosphatidylinositol 3-kinase. In the developing nervous
+            system AKT is a critical mediator of growth factor-induced neuronal
+            survival. Survival factors can suppress apoptosis in a
+            transcription-independent manner by activating the serine/threonine
+            kinase AKT1, which then phosphorylates and inactivates components
+            of the apoptotic machinery. Mutations in this gene have been
+            associated with the Proteus syndrome. Multiple alternatively
+            spliced transcript variants have been found for this gene.
+            [provided by RefSeq, Jul 2011].
+            
+            Transcript Variant: This variant (2) lacks the 5' segment, but has
+            an upstream alternate 5' exon, as compared to variant 1. Variants 1
+            and 2 encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC084538.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-6                 CN414251.1         3-8
+            7-1149              BC084538.1         1-1143
+            1150-2878           BC000479.2         1001-2729
+FEATURES             Location/Qualifiers
+     source          1..2878
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /map="14q32.33"
+     gene            1..2878
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /note="AKT serine/threonine kinase 1"
+                     /db_xref="GeneID:207"
+                     /db_xref="HGNC:HGNC:391"
+                     /db_xref="MIM:164730"
+     exon            1..261
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            262..345
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            346..470
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    386..388
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /note="upstream in-frame stop codon"
+     CDS             425..1867
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /EC_number="2.7.11.1"
+                     /note="rac protein kinase alpha; RAC-PK-alpha;
+                     proto-oncogene c-Akt; PKB alpha; protein kinase B alpha;
+                     AKT1m; v-akt murine thymoma viral oncogene homolog 1;
+                     v-akt murine thymoma viral oncogene-like protein 1;
+                     serine-threonine protein kinase"
+                     /codon_start=1
+                     /product="RAC-alpha serine/threonine-protein kinase"
+                     /protein_id="NP_001014432.1"
+                     /db_xref="CCDS:CCDS9994.1"
+                     /db_xref="GeneID:207"
+                     /db_xref="HGNC:HGNC:391"
+                     /db_xref="MIM:164730"
+                     /translation="MSDVAIVKEGWLHKRGEYIKTWRPRYFLLKNDGTFIGYKERPQD
+                     VDQREAPLNNFSVAQCQLMKTERPRPNTFIIRCLQWTTVIERTFHVETPEEREEWTTA
+                     IQTVADGLKKQEEEEMDFRSGSPSDNSGAEEMEVSLAKPKHRVTMNEFEYLKLLGKGT
+                     FGKVILVKEKATGRYYAMKILKKEVIVAKDEVAHTLTENRVLQNSRHPFLTALKYSFQ
+                     THDRLCFVMEYANGGELFFHLSRERVFSEDRARFYGAEIVSALDYLHSEKNVVYRDLK
+                     LENLMLDKDGHIKITDFGLCKEGIKDGATMKTFCGTPEYLAPEVLEDNDYGRAVDWWG
+                     LGVVMYEMMCGRLPFYNQDHEKLFELILMEEIRFPRTLGPEAKSLLSGLLKKDPKQRL
+                     GGGSEDAKEIMQHRFFAGIVWQHVYEKKLSPPFKPQVTSETDTRYFDEEFTAQMITIT
+                     PPDQDDSMECVDSERRPHFPQFSYSASGTA"
+     misc_feature    464..481
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     Region: Inositol-(1,3,4,5)-tetrakisphosphate binding"
+     misc_feature    464..466
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:21775285};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     acetylation site"
+     misc_feature    482..484
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:21775285};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     acetylation site"
+     misc_feature    491..499
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     Region: Inositol-(1,3,4,5)-tetrakisphosphate binding"
+     misc_feature    794..796
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     phosphorylation site"
+     misc_feature    800..802
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="O-linked (GlcNAc) serine, alternate.
+                     {ECO:0000269|PubMed:22629392}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); glycosylation site"
+     misc_feature    800..802
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, alternate.
+                     {ECO:0000244|PubMed:18669648}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); phosphorylation site"
+     misc_feature    809..811
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="O-linked (GlcNAc) serine, alternate.
+                     {ECO:0000269|PubMed:22629392}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); glycosylation site"
+     misc_feature    809..811
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, alternate.
+                     {ECO:0000244|PubMed:17081983, ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); phosphorylation site"
+     misc_feature    950..952
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by TNK2.
+                     {ECO:0000269|PubMed:20333297}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); phosphorylation site"
+     misc_feature    1106..1114
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     Region: Inhibitor binding"
+     misc_feature    1337..1339
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="O-linked (GlcNAc) threonine.
+                     {ECO:0000269|PubMed:22629392}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); glycosylation site"
+     misc_feature    1346..1348
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by IKKE, PDPK1 and TBK1.
+                     {ECO:0000269|PubMed:15718470, ECO:0000269|PubMed:18456494,
+                     ECO:0000269|PubMed:20333297, ECO:0000269|PubMed:20481595,
+                     ECO:0000269|PubMed:21464307, ECO:0000269|PubMed:8978681,
+                     ECO:0000269|PubMed:9512493}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); phosphorylation site"
+     misc_feature    1358..1360
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="O-linked (GlcNAc) threonine.
+                     {ECO:0000269|PubMed:22629392}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); glycosylation site"
+     misc_feature    1766..1768
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     phosphorylation site"
+     misc_feature    1772..1774
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     phosphorylation site"
+     misc_feature    1841..1843
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="O-linked (GlcNAc) serine, alternate. {ECO:0000250};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     glycosylation site"
+     misc_feature    1841..1843
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by IKKE, MTOR and TBK1, alternate.
+                     {ECO:0000269|PubMed:14761976, ECO:0000269|PubMed:15047712,
+                     ECO:0000269|PubMed:15718470, ECO:0000269|PubMed:16266983,
+                     ECO:0000269|PubMed:17013611, ECO:0000269|PubMed:20333297,
+                     ECO:0000269|PubMed:20978158, ECO:0000269|PubMed:21464307,
+                     ECO:0000269|PubMed:23799035, ECO:0000269|PubMed:8978681,
+                     ECO:0000269|PubMed:9736715}; propagated from
+                     UniProtKB/Swiss-Prot (P31749.2); phosphorylation site"
+     misc_feature    1844..1846
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine. {ECO:0000269|PubMed:12149249};
+                     propagated from UniProtKB/Swiss-Prot (P31749.2);
+                     phosphorylation site"
+     exon            471..599
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            600..711
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            712..859
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            860..991
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            992..1057
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1058..1126
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1127..1252
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1253..1381
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1382..1596
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1597..1684
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1685..1787
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1788..2859
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2840..2845
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+     polyA_site      2859
+                     /gene="AKT1"
+                     /gene_synonym="AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC;
+                     RAC-ALPHA"
+ORIGIN      
+        1 cggcaggacc gagcgcggca ggcggctggc ccagcgcagc cagcgcggcc cgaaggacgg
+       61 gagcaggcgg ccgagcaccg agcgctgggc accgggcacc gagcggcggc ggcacgcgag
+      121 gcccggcccc gagcagcgcc cccgcccgcc gcggcctcca gcccggcccc gcccagcgcc
+      181 ggcccgcggg gatgcggagc ggcgggcgcc ggaggccgcg gcccggctag gcccgcgctc
+      241 gcgcccggac gcggcggccc ggggcttagg gaaggccgag ccagcctggg tcaaagaagt
+      301 caaaggggct gcctggagga ggcagcctgt cagctggtgc atcagaggct gtggccaggc
+      361 cagctgggct cggggagcgc cagcctgaga ggagcgcgtg agcgtcgcgg gagcctcggg
+      421 caccatgagc gacgtggcta ttgtgaagga gggttggctg cacaaacgag gggagtacat
+      481 caagacctgg cggccacgct acttcctcct caagaatgat ggcaccttca ttggctacaa
+      541 ggagcggccg caggatgtgg accaacgtga ggctcccctc aacaacttct ctgtggcgca
+      601 gtgccagctg atgaagacgg agcggccccg gcccaacacc ttcatcatcc gctgcctgca
+      661 gtggaccact gtcatcgaac gcaccttcca tgtggagact cctgaggagc gggaggagtg
+      721 gacaaccgcc atccagactg tggctgacgg cctcaagaag caggaggagg aggagatgga
+      781 cttccggtcg ggctcaccca gtgacaactc aggggctgaa gagatggagg tgtccctggc
+      841 caagcccaag caccgcgtga ccatgaacga gtttgagtac ctgaagctgc tgggcaaggg
+      901 cactttcggc aaggtgatcc tggtgaagga gaaggccaca ggccgctact acgccatgaa
+      961 gatcctcaag aaggaagtca tcgtggccaa ggacgaggtg gcccacacac tcaccgagaa
+     1021 ccgcgtcctg cagaactcca ggcacccctt cctcacagcc ctgaagtact ctttccagac
+     1081 ccacgaccgc ctctgctttg tcatggagta cgccaacggg ggcgagctgt tcttccacct
+     1141 gtcccgggag cgtgtgttct ccgaggaccg ggcccgcttc tatggcgctg agattgtgtc
+     1201 agccctggac tacctgcact cggagaagaa cgtggtgtac cgggacctca agctggagaa
+     1261 cctcatgctg gacaaggacg ggcacattaa gatcacagac ttcgggctgt gcaaggaggg
+     1321 gatcaaggac ggtgccacca tgaagacctt ttgcggcaca cctgagtacc tggcccccga
+     1381 ggtgctggag gacaatgact acggccgtgc agtggactgg tgggggctgg gcgtggtcat
+     1441 gtacgagatg atgtgcggtc gcctgccctt ctacaaccag gaccatgaga agctttttga
+     1501 gctcatcctc atggaggaga tccgcttccc gcgcacgctt ggtcccgagg ccaagtcctt
+     1561 gctttcaggg ctgctcaaga aggaccccaa gcagaggctt ggcgggggct ccgaggacgc
+     1621 caaggagatc atgcagcatc gcttctttgc cggtatcgtg tggcagcacg tgtacgagaa
+     1681 gaagctcagc ccacccttca agccccaggt cacgtcggag actgacacca ggtattttga
+     1741 tgaggagttc acggcccaga tgatcaccat cacaccacct gaccaagatg acagcatgga
+     1801 gtgtgtggac agcgagcgca ggccccactt cccccagttc tcctactcgg ccagcggcac
+     1861 ggcctgaggc ggcggtggac tgcgctggac gatagcttgg agggatggag aggcggcctc
+     1921 gtgccatgat ctgtatttaa tggtttttat ttctcgggtg catttgagag aagccacgct
+     1981 gtcctctcga gcccagatgg aaagacgttt ttgtgctgtg ggcagcaccc tcccccgcag
+     2041 cggggtaggg aagaaaacta tcctgcgggt tttaatttat ttcatccagt ttgttctccg
+     2101 ggtgtggcct cagccctcag aacaatccga ttcacgtagg gaaatgttaa ggacttctgc
+     2161 agctatgcgc aatgtggcat tggggggccg ggcaggtcct gcccatgtgt cccctcactc
+     2221 tgtcagccag ccgccctggg ctgtctgtca ccagctatct gtcatctctc tggggccctg
+     2281 ggcctcagtt caacctggtg gcaccagatg caacctcact atggtatgct ggccagcacc
+     2341 ctctcctggg ggtggcaggc acacagcagc cccccagcac taaggccgtg tctctgagga
+     2401 cgtcatcgga ggctgggccc ctgggatggg accagggatg ggggatgggc cagggtttac
+     2461 ccagtgggac agaggagcaa ggtttaaatt tgttattgtg tattatgttg ttcaaatgca
+     2521 ttttgggggt ttttaatctt tgtgacagga aagccctccc ccttcccctt ctgtgtcaca
+     2581 gttcttggtg actgtcccac cgggagcctc cccctcagat gatctctcca cggtagcact
+     2641 tgaccttttc gacgcttaac ctttccgctg tcgccccagg ccctccctga ctccctgtgg
+     2701 gggtggccat ccctgggccc ctccacgcct cctggccaga cgctgccgct gccgctgcac
+     2761 cacggcgttt ttttacaaca ttcaacttta gtatttttac tattataata taatatggaa
+     2821 ccttccctcc aaattcttca ataaaagttg cttttcaaaa aaaaaaaaaa aaaaaaaa
+//
+
+LOCUS       NM_001799               1426 bp    mRNA    linear   PRI 16-APR-2021
+DEFINITION  Homo sapiens cyclin dependent kinase 7 (CDK7), transcript variant
+            1, mRNA.
+ACCESSION   NM_001799
+VERSION     NM_001799.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1426)
+  AUTHORS   Zhang W, Ge H, Jiang Y, Huang R, Wu Y, Wang D, Guo S, Li S, Wang Y,
+            Jiang H and Cheng J.
+  TITLE     Combinational therapeutic targeting of BRD4 and CDK7
+            synergistically induces anticancer effects in head and neck
+            squamous cell carcinoma
+  JOURNAL   Cancer Lett 469, 510-523 (2020)
+   PUBMED   31765738
+  REMARK    GeneRIF: our findings reveal a novel therapeutic strategy of
+            pharmacological inhibitions of BRD4 and CDK7 against head and neck
+            squamous cell carcinoma.
+REFERENCE   2  (bases 1 to 1426)
+  AUTHORS   Sun B, Mason S, Wilson RC, Hazard SE, Wang Y, Fang R, Wang Q, Yeh
+            ES, Yang M, Roberts TM, Zhao JJ and Wang Q.
+  TITLE     Inhibition of the transcriptional kinase CDK7 overcomes therapeutic
+            resistance in HER2-positive breast cancers
+  JOURNAL   Oncogene 39 (1), 50-63 (2020)
+   PUBMED   31462705
+  REMARK    GeneRIF: Dual HER2 and CDK7 inhibition induced tumor regression in
+            two HER2iR BC xenograft models in vivo. Our data support the
+            utilization of CDK7 inhibition as an additional therapeutic avenue
+            that blocks the activation of genes engaged by multiple HER2iR
+            kinases.
+REFERENCE   3  (bases 1 to 1426)
+  AUTHORS   Huang T, Ding X, Xu G, Chen G, Cao Y, Peng C, Shen S, Lv Y, Wang L
+            and Zou X.
+  TITLE     CDK7 inhibitor THZ1 inhibits MCL1 synthesis and drives
+            cholangiocarcinoma apoptosis in combination with BCL2/BCL-XL
+            inhibitor ABT-263
+  JOURNAL   Cell Death Dis 10 (8), 602 (2019)
+   PUBMED   31399555
+  REMARK    GeneRIF: combining THZ1 with a BCL2/BCL-XL inhibitor ABT-263
+            synergized in impairing cell growth and driving apoptosis. Our
+            results demonstrate CDK7 as a potential target in treating CCA.
+            Combinations of CDK7 inhibition and BCL2/BCL-XL inhibition may
+            offer a novel therapeutic strategy for CCA.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1426)
+  AUTHORS   Zhou Y, Lu L, Jiang G, Chen Z, Li J, An P, Chen L, Du J and Wang H.
+  TITLE     Targeting CDK7 increases the stability of Snail to promote the
+            dissemination of colorectal cancer
+  JOURNAL   Cell Death Differ 26 (8), 1442-1452 (2019)
+   PUBMED   30451989
+  REMARK    GeneRIF: Targeting CDK7 increases the stability of Snail to promote
+            the dissemination of colorectal cancer.
+REFERENCE   5  (bases 1 to 1426)
+  AUTHORS   Jiang L, Huang R, Wu Y, Diao P, Zhang W, Li J, Li Z, Wang Y, Cheng
+            J and Yang J.
+  TITLE     Overexpression of CDK7 is associated with unfavourable prognosis in
+            oral squamous cell carcinoma
+  JOURNAL   Pathology 51 (1), 74-80 (2019)
+   PUBMED   30473182
+  REMARK    GeneRIF: Our findings indicate that aberrant CDK7 overexpression
+            associates with T-stage and reduced survival in oral squamous cell
+            carcinoma.
+REFERENCE   6  (bases 1 to 1426)
+  AUTHORS   Aprelikova O, Xiong Y and Liu ET.
+  TITLE     Both p16 and p21 families of cyclin-dependent kinase (CDK)
+            inhibitors block the phosphorylation of cyclin-dependent kinases by
+            the CDK-activating kinase
+  JOURNAL   J Biol Chem 270 (31), 18195-18197 (1995)
+   PUBMED   7629134
+REFERENCE   7  (bases 1 to 1426)
+  AUTHORS   Shiekhattar R, Mermelstein F, Fisher RP, Drapkin R, Dynlacht B,
+            Wessling HC, Morgan DO and Reinberg D.
+  TITLE     Cdk-activating kinase complex is a component of human transcription
+            factor TFIIH
+  JOURNAL   Nature 374 (6519), 283-287 (1995)
+   PUBMED   7533895
+REFERENCE   8  (bases 1 to 1426)
+  AUTHORS   Desai D, Wessling HC, Fisher RP and Morgan DO.
+  TITLE     Effects of phosphorylation by CAK on cyclin binding by CDC2 and
+            CDK2
+  JOURNAL   Mol Cell Biol 15 (1), 345-350 (1995)
+   PUBMED   7799941
+REFERENCE   9  (bases 1 to 1426)
+  AUTHORS   Jacob GA, Luse SW and Luse DS.
+  TITLE     Abortive initiation is increased only for the weakest members of a
+            set of down mutants of the adenovirus 2 major late promoter
+  JOURNAL   J Biol Chem 266 (33), 22537-22544 (1991)
+   PUBMED   1939271
+REFERENCE   10 (bases 1 to 1426)
+  AUTHORS   Conaway RC and Conaway JW.
+  TITLE     ATP activates transcription initiation from promoters by RNA
+            polymerase II in a reversible step prior to RNA synthesis
+  JOURNAL   J Biol Chem 263 (6), 2962-2968 (1988)
+   PUBMED   2449431
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BI520184.1, BC005298.1, BC000834.2 and CA437275.1.
+            On Nov 23, 2018 this sequence version replaced NM_001799.3.
+            
+            Summary: The protein encoded by this gene is a member of the
+            cyclin-dependent protein kinase (CDK) family. CDK family members
+            are highly similar to the gene products of Saccharomyces cerevisiae
+            cdc28, and Schizosaccharomyces pombe cdc2, and are known to be
+            important regulators of cell cycle progression. This protein forms
+            a trimeric complex with cyclin H and MAT1, which functions as a
+            Cdk-activating kinase (CAK). It is an essential component of the
+            transcription factor TFIIH, that is involved in transcription
+            initiation and DNA repair. This protein is thought to serve as a
+            direct link between the regulation of transcription and the cell
+            cycle. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189658.83086.1,
+                                           SRR5189667.197822.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000256443.8/ ENSP00000256443.3
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2                 BI520184.1         92-93
+            3-478               BC005298.1         1-476
+            479-1301            BC000834.2         409-1231
+            1302-1426           CA437275.1         18-142              c
+FEATURES             Location/Qualifiers
+     source          1..1426
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..1426
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="cyclin dependent kinase 7"
+                     /db_xref="GeneID:1022"
+                     /db_xref="HGNC:HGNC:1778"
+                     /db_xref="MIM:601955"
+     exon            1..156
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    19..21
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="upstream in-frame stop codon"
+     CDS             91..1131
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /EC_number="2.7.11.23"
+                     /EC_number="2.7.11.22"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis,
+                     cdk-activating kinase); serine/threonine kinase stk1;
+                     serine/threonine protein kinase 1; serine/threonine
+                     protein kinase MO15; homolog of Xenopus MO15
+                     Cdk-activating kinase; kinase subunit of CAK; 39 KDa
+                     protein kinase; cell division protein kinase 7; TFIIH
+                     basal transcription factor complex kinase subunit;
+                     CDK-activating kinase 1"
+                     /codon_start=1
+                     /product="cyclin-dependent kinase 7 isoform 1"
+                     /protein_id="NP_001790.1"
+                     /db_xref="CCDS:CCDS3999.1"
+                     /db_xref="GeneID:1022"
+                     /db_xref="HGNC:HGNC:1778"
+                     /db_xref="MIM:601955"
+                     /translation="MALDVKSRAKRYEKLDFLGEGQFATVYKARDKNTNQIVAIKKIK
+                     LGHRSEAKDGINRTALREIKLLQELSHPNIIGLLDAFGHKSNISLVFDFMETDLEVII
+                     KDNSLVLTPSHIKAYMLMTLQGLEYLHQHWILHRDLKPNNLLLDENGVLKLADFGLAK
+                     SFGSPNRAYTHQVVTRWYRAPELLFGARMYGVGVDMWAVGCILAELLLRVPFLPGDSD
+                     LDQLTRIFETLGTPTEEQWPDMCSLPDYVTFKSFPGIPLHHIFSAAGDDLLDLIQGLF
+                     LFNPCARITATQALKMKYFSNRPGPTPGCQLPRPNCPVETLKEQSNPALAIKRKRTEA
+                     LEQGGLPKKLIF"
+     misc_feature    94..96
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P50613.1); acetylation site"
+     misc_feature    109..111
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18691976; propagated from
+                     UniProtKB/Swiss-Prot (P50613.1); phosphorylation site"
+     misc_feature    580..582
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="Phosphoserine, by CDK1 and CDK2.
+                     /evidence=ECO:0000269|PubMed:11113184,
+                     ECO:0000269|PubMed:9832506, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P50613.1);
+                     phosphorylation site"
+     misc_feature    598..600
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="Phosphothreonine, by CDK2.
+                     /evidence=ECO:0000269|PubMed:11113184,
+                     ECO:0000269|PubMed:15530371, ECO:0000269|PubMed:9832506,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P50613.1); phosphorylation site"
+     misc_feature    1051..1053
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18691976,
+                     ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P50613.1); phosphorylation site"
+     exon            157..216
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            217..250
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            251..318
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            319..387
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            388..498
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            499..617
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            618..717
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            718..804
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            805..954
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            955..1102
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1103..1426
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1278..1283
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="hexamer: ATTAAA"
+     regulatory      1294..1299
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="hexamer: AATAAA"
+     polyA_site      1301
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="major polyA site"
+     polyA_site      1334
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+     regulatory      1392..1397
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+                     /note="hexamer: AATAAA"
+     polyA_site      1426
+                     /gene="CDK7"
+                     /gene_synonym="CAK; CAK1; CDKN7; HCAK; MO15; p39MO15;
+                     STK1"
+ORIGIN      
+        1 agtgggtgtt ggaggcttta aggtagcttt aaattcgtgt tgtcctggga gctcgccctt
+       61 ttcggctgga gtcgggcttt acggcgccgg atggctctgg acgtgaagtc tcgggcaaag
+      121 cgttatgaga agctggactt ccttggggag ggacagtttg ccaccgttta caaggccaga
+      181 gataagaaca ccaaccaaat tgtcgccatt aagaaaatca aacttggaca tagatcagaa
+      241 gctaaagatg gtataaatag aaccgcctta agagagataa aattattaca ggagctaagt
+      301 catccaaata taattggtct ccttgatgct tttggacata aatctaatat tagccttgtc
+      361 tttgatttta tggaaactga tctagaggtt ataataaagg ataatagtct tgtgctgaca
+      421 ccatcacaca tcaaagccta catgttgatg actcttcaag gattagaata tttacatcaa
+      481 cattggatcc tacataggga tctgaaacca aacaacttgt tgctagatga aaatggagtt
+      541 ctaaaactgg cagattttgg cctggccaaa tcttttggga gccccaatag agcttataca
+      601 catcaggttg taaccaggtg gtatcgggcc cccgagttac tatttggagc taggatgtat
+      661 ggtgtaggtg tggacatgtg ggctgttggc tgtatattag cagagttact tctaagggtt
+      721 ccttttttgc caggagattc agaccttgat cagctaacaa gaatatttga aactttgggc
+      781 acaccaactg aggaacagtg gccggacatg tgtagtcttc cagattatgt gacatttaag
+      841 agtttccctg gaataccttt gcatcacatc ttcagtgcag caggagacga cttactagat
+      901 ctcatacaag gcttattctt atttaatcca tgtgctcgaa ttacggccac acaggcactg
+      961 aaaatgaagt atttcagtaa tcggccaggg ccaacacctg gatgtcagct gccaagacca
+     1021 aactgtccag tggaaacctt aaaggagcaa tcaaatccag ctttggcaat aaaaaggaaa
+     1081 agaacagagg ccttagaaca aggaggattg cccaagaaac taatttttta aagagaacac
+     1141 tggacaacat tttactactg agggaaatag ccaaaaaggc aaataatgga aaaatagtaa
+     1201 acattaagta aatgctgtag aagtgagttt gtaaatattc tacacatgta aaatatgtaa
+     1261 aactatgggt tatttttatt aaatgtattt taaaataaaa atttaattct ggtttttctg
+     1321 attagagtgc aaaagtgaga aaagttcaat actcttgaaa tgtagaattg aaaatgcatt
+     1381 agggaaaact taataaaaat tattaccagt tatttggaag atctga
+//
+
+LOCUS       NM_000422               1517 bp    mRNA    linear   PRI 16-APR-2021
+DEFINITION  Homo sapiens keratin 17 (KRT17), mRNA.
+ACCESSION   NM_000422
+VERSION     NM_000422.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1517)
+  AUTHORS   Zhang S, Tan Y, Yin XQ and Luo H.
+  TITLE     [Molecular Mechanism of KLF4 Up-regulating Keratin 17 Expression in
+            Keratinocytes]
+  JOURNAL   Sichuan Da Xue Xue Bao Yi Xue Ban 51 (6), 797-802 (2020)
+   PUBMED   33236603
+  REMARK    GeneRIF: [Molecular Mechanism of KLF4 Up-regulating Keratin 17
+            Expression in Keratinocytes].
+REFERENCE   2  (bases 1 to 1517)
+  AUTHORS   Ujiie D, Okayama H, Saito K, Ashizawa M, Thar Min AK, Endo E, Kase
+            K, Yamada L, Kikuchi T, Hanayama H, Fujita S, Sakamoto W, Endo H,
+            Saito M, Mimura K, Saze Z, Momma T, Ohki S and Kono K.
+  TITLE     KRT17 as a prognostic biomarker for stage II colorectal cancer
+  JOURNAL   Carcinogenesis 41 (5), 591-599 (2020)
+   PUBMED   31754689
+  REMARK    GeneRIF: KRT17 as a prognostic biomarker for stage II colorectal
+            cancer.
+REFERENCE   3  (bases 1 to 1517)
+  AUTHORS   Yan X, Yang C, Hu W, Chen T, Wang Q, Pan F, Qiu B and Tang B.
+  TITLE     Knockdown of KRT17 decreases osteosarcoma cell proliferation and
+            the Warburg effect via the AKT/mTOR/HIF1alpha pathway
+  JOURNAL   Oncol Rep 44 (1), 103-114 (2020)
+   PUBMED   32627037
+  REMARK    GeneRIF: Knockdown of KRT17 decreases osteosarcoma cell
+            proliferation and the Warburg effect via the AKT/mTOR/HIF1alpha
+            pathway.
+REFERENCE   4  (bases 1 to 1517)
+  AUTHORS   Bai JDK, Babu S, Roa-Pena L, Hou W, Akalin A, Escobar-Hoyos LF and
+            Shroyer KR.
+  TITLE     Keratin 17 is a negative prognostic biomarker in high-grade
+            endometrial carcinomas
+  JOURNAL   Hum Pathol 94, 40-50 (2019)
+   PUBMED   31655172
+  REMARK    GeneRIF: K17 is a negative prognostic biomarker in high-grade
+            endometrial carcinoma.
+REFERENCE   5  (bases 1 to 1517)
+  AUTHORS   Dong M, Dong Z, Zhu X, Zhang Y and Song L.
+  TITLE     Long non-coding RNA MIR205HG regulates KRT17 and tumor processes in
+            cervical cancer via interaction with SRSF1
+  JOURNAL   Exp Mol Pathol 111, 104322 (2019)
+   PUBMED   31655037
+  REMARK    GeneRIF: High KRT17 expression is associated with progression of
+            cervical cancer.
+REFERENCE   6  (bases 1 to 1517)
+  AUTHORS   Smith,F.J.D., Hansen,C.D., Hull,P.R., Kaspar,R.L., McLean,W.H.I.,
+            O'Toole,E. and Sprecher,E.
+  TITLE     Pachyonychia Congenita
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301457
+REFERENCE   7  (bases 1 to 1517)
+  AUTHORS   Troyanovsky SM, Leube RE and Franke WW.
+  TITLE     Characterization of the human gene encoding cytokeratin 17 and its
+            expression pattern
+  JOURNAL   Eur J Cell Biol 59 (1), 127-137 (1992)
+   PUBMED   1281771
+REFERENCE   8  (bases 1 to 1517)
+  AUTHORS   Flohr T, Buwitt U, Bonnekoh B, Decker T and Bottger EC.
+  TITLE     Interferon-gamma regulates expression of a novel keratin class I
+            gene
+  JOURNAL   Eur J Immunol 22 (4), 975-979 (1992)
+   PUBMED   1372562
+REFERENCE   9  (bases 1 to 1517)
+  AUTHORS   Trask DK, Band V, Zajchowski DA, Yaswen P, Suh T and Sager R.
+  TITLE     Keratins as markers that distinguish normal and tumor-derived
+            mammary epithelial cells
+  JOURNAL   Proc Natl Acad Sci U S A 87 (6), 2319-2323 (1990)
+   PUBMED   1690428
+REFERENCE   10 (bases 1 to 1517)
+  AUTHORS   Kartasova,T., Cornelissen,B.J., Belt,P. and van de Putte,P.
+  TITLE     Effects of UV, 4-NQO and TPA on gene expression in cultured human
+            epidermal keratinocytes
+  JOURNAL   Nucleic Acids Res 15 (15), 5945-5962 (1987)
+   PUBMED   2442723
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BP226061.1 and BC011901.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_000422.2.
+            
+            Summary: This gene encodes the type I intermediate filament chain
+            keratin 17, expressed in nail bed, hair follicle, sebaceous glands,
+            and other epidermal appendages. Mutations in this gene lead to
+            Jackson-Lawler type pachyonychia congenita and steatocystoma
+            multiplex. [provided by RefSeq, Aug 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189658.58324.1,
+                                           SRR5189658.113620.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1968189
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000311208.13/ ENSP00000308452.8
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-18                BP226061.1         56-73
+            19-1517             BC011901.2         1-1499
+FEATURES             Location/Qualifiers
+     source          1..1517
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17q21.2"
+     gene            1..1517
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="keratin 17"
+                     /db_xref="GeneID:3872"
+                     /db_xref="HGNC:HGNC:6427"
+                     /db_xref="MIM:148069"
+     exon            1..498
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             67..1365
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="cytokeratin-17; keratin 17, type I"
+                     /codon_start=1
+                     /product="keratin, type I cytoskeletal 17"
+                     /protein_id="NP_000413.1"
+                     /db_xref="CCDS:CCDS11402.1"
+                     /db_xref="GeneID:3872"
+                     /db_xref="HGNC:HGNC:6427"
+                     /db_xref="MIM:148069"
+                     /translation="MTTSIRQFTSSSSIKGSSGLGGGSSRTSCRLSGGLGAGSCRLGS
+                     AGGLGSTLGGSSYSSCYSFGSGGGYGSSFGGVDGLLAGGEKATMQNLNDRLASYLDKV
+                     RALEEANTELEVKIRDWYQRQAPGPARDYSQYYRTIEELQNKILTATVDNANILLQID
+                     NARLAADDFRTKFETEQALRLSVEADINGLRRVLDELTLARADLEMQIENLKEELAYL
+                     KKNHEEEMNALRGQVGGEINVEMDAAPGVDLSRILNEMRDQYEKMAEKNRKDAEDWFF
+                     SKTEELNREVATNSELVQSGKSEISELRRTMQALEIELQSQLSMKASLEGNLAETENR
+                     YCVQLSQIQGLIGSVEEQLAQLRCEMEQQNQEYKILLDVKTRLEQEIATYRRLLEGED
+                     AHLTQYKKEPVTTRQVRTIVEEVQDGKVISSREQVHQTTR"
+     misc_feature    67..315
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Head"
+     misc_feature    100..102
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    103..105
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    139..141
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61414; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    160..162
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    181..183
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    196..198
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine, by RPS6KA1.
+                     /evidence=ECO:0000269|PubMed:22006917; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    316..426
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Coil 1A"
+     misc_feature    370..414
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Peptide epitope S1, induces T-cell and
+                     keratinocyte proliferation and IFN-gamma production"
+     misc_feature    394..396
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    427..480
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Linker 1"
+     misc_feature    481..756
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Coil 1B"
+     misc_feature    523..567
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Peptide epitope S2, induces T-cell proliferation
+                     and IFN-gamma production"
+     misc_feature    757..816
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Linker 12"
+     misc_feature    817..1242
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Coil 2"
+     misc_feature    901..903
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:Q6IFV3; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    1033..1035
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q04695.2); phosphorylation site"
+     misc_feature    1060..1104
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Peptide epitope S4, induces T-cell and
+                     keratinocyte proliferation and IFN-gamma production"
+     misc_feature    1243..1362
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04695.2);
+                     Region: Tail"
+     exon            499..581
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            582..738
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            739..900
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            901..1026
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1027..1247
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1248..1270
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1271..1517
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1495..1500
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="hexamer: AATAAA"
+     polyA_site      1517
+                     /gene="KRT17"
+                     /gene_synonym="39.1; CK-17; K17; PC; PC2; PCHC1"
+                     /note="major polyA site"
+ORIGIN      
+        1 acacaacttg gggcccctct cctctccagc ccttctcctg tgtgcctgcc tcctgccgcc
+       61 gccaccatga ccacctccat ccgccagttc acctcctcca gctccatcaa gggctcctcc
+      121 ggcctggggg gcggctcgtc ccgcacctcc tgccggctgt ctggcggcct gggtgccggc
+      181 tcctgcaggc tgggatctgc tggcggcctg ggcagcaccc tcgggggtag cagctactcc
+      241 agctgctaca gctttggctc tggtggtggc tatggcagca gctttggggg tgttgatggg
+      301 ctgctggctg gaggtgagaa ggccaccatg cagaacctca atgaccgcct ggcctcctac
+      361 ctggacaagg tgcgtgccct ggaggaggcc aacactgagc tggaggtgaa gatccgtgac
+      421 tggtaccaga ggcaggcccc ggggcccgcc cgtgactaca gccagtacta caggacaatt
+      481 gaggagctgc agaacaagat cctcacagcc accgtggaca atgccaacat cctgctacag
+      541 attgacaatg cccgtctggc tgctgatgac ttccgcacca agtttgagac agagcaggcc
+      601 ctgcgcctga gtgtggaggc cgacatcaat ggcctgcgca gggtgctgga tgagctgacc
+      661 ctggccagag ccgacctgga gatgcagatt gagaacctca aggaggagct ggcctacctg
+      721 aagaagaacc acgaggagga gatgaacgcc ctgcgaggcc aggtgggtgg tgagatcaat
+      781 gtggagatgg acgctgcccc aggcgtggac ctgagccgca tcctcaacga gatgcgtgac
+      841 cagtatgaga agatggcaga gaagaaccgc aaggatgccg aggattggtt cttcagcaag
+      901 acagaggaac tgaaccgcga ggtggccacc aacagtgagc tggtgcagag tggcaagagt
+      961 gagatctcgg agctccggcg caccatgcag gccttggaga tagagctgca gtcccagctc
+     1021 agcatgaaag catccctgga gggcaacctg gcggagacag agaaccgcta ctgcgtgcag
+     1081 ctgtcccaga tccaggggct gattggcagc gtggaggagc agctggccca gcttcgctgc
+     1141 gagatggagc agcagaacca ggaatacaaa atcctgctgg atgtgaagac gcggctggag
+     1201 caggagattg ccacctaccg ccgcctgctg gagggagagg atgcccacct gactcagtac
+     1261 aagaaagaac cggtgaccac ccgtcaggtg cgtaccattg tggaagaggt ccaggatggc
+     1321 aaggtcatct cctcccgcga gcaggtccac cagaccaccc gctgaggact cagctacccc
+     1381 ggccggccac ccaggaggca gggaggcagc cgccccatct gccccacagt ctccggcctc
+     1441 tccagcctca gccccctgct tcagtccctt ccccatgctt ccttgcctga tgacaataaa
+     1501 gcttgttgac tcagcta
+//
+
